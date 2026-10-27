@@ -1,0 +1,14 @@
+# Python
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+
+# OS / editor
+.DS_Store
+.vscode/
